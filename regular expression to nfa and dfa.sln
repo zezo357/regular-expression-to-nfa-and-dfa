@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "regular expression to nfa and dfa", "regular expression to nfa and dfa\regular expression to nfa and dfa.pyproj", "{AE37CB7A-AF70-4336-BA3C-18A54A56ECA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE37CB7A-AF70-4336-BA3C-18A54A56ECA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE37CB7A-AF70-4336-BA3C-18A54A56ECA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0DB066E-74D5-451E-A5C5-0FA7AA947513}
+	EndGlobalSection
+EndGlobal
